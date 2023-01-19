@@ -1,4 +1,17 @@
-### Hi there 👋
+### 👋 Hi, I´m Kevin 👨‍💻
+
+```js 
+const KevinMecca = {
+pronouns:"he" | "him" ,
+learning code:[Javascript, HTML, CSS],
+"👨‍💻 web development in progreess"
+}
+```
+
+you can find me:
+
+-[Twitter](https://twitter.com/Kevin_Mecca)
+-[LinkedIn](https://www.linkedin.com/in/kevin-oblea-meca)
 
 <!--
 **KevinMecca/KevinMecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
