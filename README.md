@@ -9,8 +9,6 @@ learning code:[Javascript, HTML, CSS],
 ```
 
 you can find me:
-
--[Twitter](https://twitter.com/Kevin_Mecca)
 -[LinkedIn](https://www.linkedin.com/in/kevin-oblea-meca)
 
 <!--
