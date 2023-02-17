@@ -10,7 +10,8 @@ learning code:[Javascript, HTML, CSS, Java],
 
 you can find me:
 
--[LinkedIn](https://www.linkedin.com/in/kevin-oblea-meca)
+-[LinkedIn](https://www.linkedin.com/in/kevin-oblea-meca) ![image](https://user-images.githubusercontent.com/119716838/219774244-ee9d8b66-0712-43fd-9320-06010af11770.png)
+
 
 <!--
 **KevinMecca/KevinMecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
