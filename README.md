@@ -3,12 +3,13 @@
 ```js 
 const KevinMecca = {
 pronouns:"he" | "him" ,
-learning code:[Javascript, HTML, CSS],
+learning code:[Javascript, HTML, CSS, Java],
 "👨‍💻 web development in progreess"
 }
 ```
 
 you can find me:
+
 -[LinkedIn](https://www.linkedin.com/in/kevin-oblea-meca)
 
 <!--
