@@ -4,7 +4,7 @@
 const KevinMecca = {
 pronouns:"he" | "him" ,
 learning code:[Javascript, HTML, CSS, Java],
-"👨‍💻 web development in progreess"
+"👨‍💻 web development in progress"
 }
 ```
 
