@@ -1,7 +1,7 @@
 ### 👋 Hi, I´m Kevin 👨‍💻
 
 ```js 
-const KevinMecca = {
+const KevinMeca = {
 pronouns:"he" | "him" ,
 learning code:[Javascript, HTML, CSS, Java],
 "👨‍💻 web development in progress"
