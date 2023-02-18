@@ -10,8 +10,7 @@ learning code:[Javascript, HTML, CSS, Java],
 
 you can find me:
 
--[Linked](https://www.linkedin.com/in/kevin-meca)![linkedin (1)](https://user-images.githubusercontent.com/119716838/219774797-7f3de6d7-5672-41dc-a105-d2a1799175f1.png)
-
+[Linked](https://www.linkedin.com/in/kevin-meca)![linkedin (2)](https://user-images.githubusercontent.com/119716838/219820649-bac1f473-30f5-4b57-a4c3-f61018d8b2b9.png)
 
 
 <!--
